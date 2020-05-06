@@ -3,6 +3,9 @@ uuid = "4b39bcb0-8f8d-11ea-2071-8d336e1c84e9"
 authors = ["Michał Jabłonowski"]
 version = "0.1.0"
 
+[deps]
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+
 [compat]
 julia = "1.4"
 
